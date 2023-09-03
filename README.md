@@ -1,7 +1,7 @@
 # Tailwind Traders Website 
 
 ![Tailwind Traders Website](Documents/Images/Website.png)
-now with branch protection on main!
+now with branch protection applied on main branch and you can only merge with a pull-request and need atlease one approver!
 
 I can link an issue to a piece of work to get traceability
 
